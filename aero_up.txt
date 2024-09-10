@@ -1,12 +1,13 @@
 {
   "regionmod_aero": [
     {
- "version":"𝗨𝗽𝗱𝗮𝘁𝗲 𝗔𝗲𝗿𝗼 𝗩𝟰𝟳",
+ "version":"𝗨𝗽𝗱𝗮𝘁𝗲 𝗧𝗲𝗿𝘀𝗲𝗱𝗶𝗮
+𝗔𝗲𝗿𝗼 𝗕𝗲𝘁𝗮 - 𝘃𝟰𝟳",
  "title":"Aero Sudah Terbaru",
  "description":"Update Available for Aero
 
-To remove viruses
-Fixed Bugs
+- To remove viruses
+- Fixed Bugs
  ",
 "download":"https://youtube.com/@ReGionMod"
 }
