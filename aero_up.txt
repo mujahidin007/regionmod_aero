@@ -1,7 +1,7 @@
 {
   "regionmod_aero": [
     {
- "version":"𝗨𝗽𝗱𝗮𝘁𝗲 𝗧𝗲𝗿𝘀𝗲𝗱𝗶𝗮
+ "version":"𝗨𝗣𝗗𝗔𝗧𝗘 𝗧𝗘𝗥𝗦𝗘𝗗𝗜𝗔
 𝗔𝗲𝗿𝗼 𝗕𝗲𝘁𝗮 - 𝘃𝟰𝟳",
  "title":"Aero Sudah Terbaru",
  "description":"Update Available for Aero
