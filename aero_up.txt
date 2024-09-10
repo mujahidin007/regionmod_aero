@@ -1,7 +1,7 @@
 {
   "regionmod_aero": [
     {
- "version":"𝗨𝗽𝗱𝗮𝘁𝗲 𝗔𝗲𝗿𝗼 𝗩𝟰𝟱",
+ "version":"𝗨𝗽𝗱𝗮𝘁𝗲 𝗔𝗲𝗿𝗼 𝗩𝟰𝟳",
  "title":"Aero Sudah Terbaru",
  "description":"Update Available for Aero
 
