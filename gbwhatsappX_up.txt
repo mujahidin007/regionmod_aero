@@ -1,0 +1,15 @@
+{
+  "regionmod_aero": [
+    {
+ "version":"𝗨𝗣𝗗𝗔𝗧𝗘 𝗧𝗘𝗥𝗦𝗘𝗗𝗜𝗔
+𝗔𝗲𝗿𝗼 𝗕𝗲𝘁𝗮 - 𝘃𝟰𝟱",
+ "title":"Aero Sudah Terbaru",
+ "description":"Update Available for Aero
+
+To remove viruses
+Fixed Bugs
+ ",
+"download":"https://youtube.com/@ReGionMod"
+}
+  ]
+}
