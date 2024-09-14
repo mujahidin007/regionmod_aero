@@ -2,9 +2,9 @@
   "regionmod_aero": [
     {
  "version":"𝗨𝗣𝗗𝗔𝗧𝗘 𝗧𝗘𝗥𝗦𝗘𝗗𝗜𝗔
-𝗚𝗕𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽_𝗫 𝘃𝟯𝟴",
+𝗚𝗕𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽_𝗫 𝘃𝟯𝟳",
  "title":"Aero Sudah Terbaru",
- "description":"Update Available for Aero
+ "description":"Update Available for GBWhatsApp_X
 
 To remove viruses
 Fixed Bugs
