@@ -1,15 +1,13 @@
 {
   "regionvidio_up": [
     {
- "version":"𝗨𝗣𝗗𝗔𝗧𝗘 𝗧𝗘𝗥𝗦𝗘𝗗𝗜𝗔
-𝗔𝗲𝗿𝗼 𝗕𝗲𝘁𝗮 - 𝘃𝟰𝟱",
+ "version":"𝐑𝐞𝐆𝐢𝐨𝐧𝐌𝐨𝐝 𝐔𝐩𝐝𝐚𝐭𝐞 𝐕𝐢𝐝𝐢𝐨 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩",
  "title":"Aero Sudah Terbaru",
- "description":"Update Available for Aero
+ "description":"ReGionMod Update Vidio Terbaru Di YouTube
 
-To remove viruses
-Fixed Bugs
+Hari ini Update WhatsApp Aero Beta - v47
  ",
-"download":"https://youtube.com/@ReGionMod"
+"download":"https://youtu.be/KmuPYrFKt6M"
 }
   ]
 }
