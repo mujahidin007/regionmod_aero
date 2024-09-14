@@ -1,5 +1,5 @@
 {
-  "regionvidio_up": [
+  "regionvidio_update": [
     {
  "version":"𝐑𝐞𝐆𝐢𝐨𝐧𝐌𝐨𝐝 𝐔𝐩𝐝𝐚𝐭𝐞 𝐕𝐢𝐝𝐢𝐨 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩",
  "title":"Aero Sudah Terbaru",
