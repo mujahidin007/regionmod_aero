@@ -2,7 +2,7 @@
   "regionmod_aero": [
     {
  "version":"𝗨𝗣𝗗𝗔𝗧𝗘 𝗧𝗘𝗥𝗦𝗘𝗗𝗜𝗔
-𝗚𝗕𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽_𝗫 𝘃𝟯𝟳",
+𝗚𝗕𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽_𝗫 𝘃𝟯8",
  "title":"Aero Sudah Terbaru",
  "description":"Update Available for GBWhatsApp_X
 
