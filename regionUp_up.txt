@@ -1,0 +1,14 @@
+{
+  "regionUp_up": [
+    {
+ "version":"DELTA WA v6.4.4E",
+ "title":"Aero Sudah Terbaru",
+ "description":"Update Available for Aero
+
+To remove viruses
+Fixed Bugs
+ ",
+"download":"https://youtube.com/@ReGionMod"
+}
+  ]
+}
