@@ -2,8 +2,8 @@
   "regionUp_up": [
     {
  "version":"DELTA WA v6.4.4E",
- "title":"Aero Sudah Terbaru",
- "description":"Update Available for Aero
+ "title":"Delta Sudah Terbaru",
+ "description":"Update Available for Delta
 
 To remove viruses
 Fixed Bugs
