@@ -1,11 +1,11 @@
 {
   "regionmod_aero": [
     {
- "version":"𝗨𝗣𝗗𝗔𝗧𝗘 𝗧𝗘𝗥𝗦𝗘𝗗𝗜𝗔
-𝗔𝗲𝗿𝗼 𝗕𝗲𝘁𝗮 - 𝘃𝟰𝟱",
+ "version":"𝗟𝗔𝗧𝗘𝗦𝗧 𝗨𝗣𝗗𝗔𝗧𝗘
+𝗔𝗲𝗿𝗼 𝗕𝗲𝘁𝗮 - 𝘃𝟱𝟬",
  "title":"Aero Sudah Terbaru",
  "description":"Update Available for Aero
-
+Base : 2.24.18.74
 - To remove viruses
 - Fixed Bugs
  ",
