@@ -1,16 +1,19 @@
 {
   "regionUp_up": [
     {
- "version":"𝗗𝗘𝗟𝗧𝗔 𝗪𝗮 𝘃𝟲.𝟱",
+ "version":"𝗗𝗘𝗟𝗧𝗔 𝗪𝗔 𝘃𝟲.𝟱.𝟮",
  "title":"Delta Sudah Terbaru",
- "description":"Update Base v2.24.16.76 
-
-- Add Hidden Chat - Add Call Rejection Type - Fix Confirm Sending Sticker - Add Hide Date and Name when copying 2 messages and more
-
-
+ "description":"Update Available for Delta
+ 
+- Change Launcher Icon 
+- Change Check Mark Style 
+- Add Voice Changer 
+- Chat Wallpaper Picker 
+- Theme Store 
+- Show Hide Chat Entries Translation
 Link On YouTube 
  ",
-"download":"https://youtu.be/avLysIQapW0"
+"download":"https://youtu.be/WQGmk430NWs"
 }
   ]
 }
