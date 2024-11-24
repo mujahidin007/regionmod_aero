@@ -1,7 +1,7 @@
 {
   "regionUp_up": [
     {
- "version":"𝗗𝗘𝗟𝗧𝗔 𝗪𝗔 𝘃𝟲.𝟱.𝟮",
+ "version":"𝗗𝗘𝗟𝗧𝗔 𝗪𝗔 𝘃𝟲.6.1",
  "title":"Delta Sudah Terbaru",
  "description":"Update Available for Delta
  
@@ -13,7 +13,7 @@
 - Show Hide Chat Entries Translation
 Link On YouTube 
  ",
-"download":"https://youtu.be/WQGmk430NWs"
+"download":"https://youtu.be/A-gZjsRyLkE"
 }
   ]
 }
