@@ -9,7 +9,7 @@ Base : 2.24.21.74
 - To remove viruses
 - Fixed Bugs
  ",
-"download":"https://youtube.com/@ReGionMod"
+"download":"https://youtu.be/pweAj7OK3JE"
 }
   ]
 }
