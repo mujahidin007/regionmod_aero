@@ -1,14 +1,14 @@
 {
   "fnmods_update": [
     {
- "version":"Mujahiid",
+ "version":"𝐂𝐚𝐧𝐯𝐚 𝐏𝐫𝐨 / 𝐑𝐞𝐆𝐢𝐨𝐧𝐎𝐮𝐫𝐞 | 𝐁𝐘 𝐌𝐔𝐉𝐀𝐇𝐈𝐈𝐃 & 𝐑𝐄𝐆𝐈𝐎𝐍𝐌𝐎𝐃 | #03",
  "title":"Canva Sudah Terbaru",
  "description":"Update Available for 
 Ca Pro
 
 Join Member Canva Pro Terbaru
  ",
-"download":"https://youtube.com/@ReGionMod"
+"download":"https://www.canva.com/brand/join?token=qflQzUlGkvUflTzI8ho5qw&referrer=team-invite"
 }
   ]
 }
