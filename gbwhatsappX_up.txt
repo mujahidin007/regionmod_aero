@@ -1,27 +1,12 @@
 {
-  "regionmod_aero": [
+  "fnmods_update": [
     {
- "version":"𝗨𝗣𝗗𝗔𝗧𝗘 𝗧𝗘𝗥𝗦𝗘𝗗𝗜𝗔
-𝗚𝗕𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽_𝗫 𝘃𝟯𝟳",
- "title":"Aero Sudah Terbaru",
- "description":"Update Available for GBWhatsApp_X
+ "version":"Mujahiid",
+ "title":"Canva Sudah Terbaru",
+ "description":"Update Available for 
+Ca Pro
 
-To remove viruses
-Fixed Bugs
-<base Perbarui basis WhatsApp to 2.24.5.77
-⛏ Ditingkatkan< Perlindungan Anti-larangan yang lebih baik
-⛏ Ditingkatkan< Anti-ban bagi orang yang mendapatkan ban berulang selama 1 jam
-< point < Notifikasi baru akan muncul ketika ada yang membaca pesan Anda (pilih pesan dengan menekan lama, lalu > dari atas, pilih tiga titik, lalu > notifikasi saat pesan telah dibaca)
-< Ditambahkan< Menambahkan opsi baru untuk menunjukkan waktu penghapusan pesan dan kasus dalam menit dan detik
-< memungkinkan<  Mengaktifkan beberapa fitur eksperimental perusahaan
-< Mengoptimalkan<  Mengoptimalkan kode mode hantu secara terpisah untuk menyembunyikan baki pesan alih-alih menyembunyikan tampilan
-< fixed< Memperbaiki masalah Bubble Tick yang lebih benar dan tidak mengubah pola dan mengubah warna
-< fixed< Memperbaiki kerusakan saat memasuki bagian Sembunyikan Obrolan
-< fixed< Memperbaiki kerusakan saat memasukkan opsi kontak yang diblokir
-< fixed< Memperbaiki pengiriman media
-< fixed< Memperbaiki hilangnya suara dari video dan status
-< fixed< Memperbaiki kerusakan saat menggulir di layar utama 
-< fixed< Memperbaiki beberapa kerusakan lainnya
+Join Member Canva Pro Terbaru
  ",
 "download":"https://youtube.com/@ReGionMod"
 }
