@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"𝐂𝐚𝐧𝐯𝐚 𝐏𝐫𝐨 / 𝐑𝐞𝐆𝐢𝐨𝐧𝐎𝐮𝐫𝐞 | 𝐁𝐘 𝐌𝐔𝐉𝐀𝐇𝐈𝐈𝐃 & 𝐑𝐄𝐆𝐈𝐎𝐍𝐌𝐎𝐃 | #03",
+ "version":"𝐂𝐚𝐧𝐯𝐚 𝐏𝐫𝐨 / 𝐑𝐞𝐆𝐢𝐨𝐧𝐎𝐮𝐫𝐞 | 𝐁𝐘 𝐌𝐔𝐉𝐀𝐇𝐈𝐈𝐃 & 𝐑𝐄𝐆𝐈𝐎𝐍𝐌𝐎𝐃",
  "title":"Canva Sudah Terbaru",
  "description":"Update Available for 
 Ca Pro
