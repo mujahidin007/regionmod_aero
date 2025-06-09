@@ -8,7 +8,7 @@ Ca Pro
 
 Join Member Canva Pro Terbaru
  ",
-"download":"https://www.canva.com/brand/join?token=AO5u_hg7Vas3ADrWuHhbOg&referrer=team-invite"
+"download":"https://www.canva.com/brand/join?token=4Iq850ZgBoCxIU0CGTRarw&referrer=team-invite"
 }
   ]
 }
